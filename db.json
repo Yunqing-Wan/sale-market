@@ -1,0 +1,19 @@
+{
+  "getImgList":[
+    {
+      "id":"1",
+      "img":"https://m.360buyimg.com/mobilecms/s720x322_jfs/t10318/149/17763206/116744/e4ee1a17/59c37527Nc331674b.jpg!q70.jpg",
+      "url":"https://pro.m.jd.com/mall/active/2swvgWopcM4Xy6hyxuE8toBnSkzV/index.html"
+    },
+    {
+      "id":"2",
+      "img":"//m.360buyimg.com/babel/jfs/t8104/177/2078850605/196888/f9b3a28b/59c4ecc6Nb9a30d7e.jpg!q50.jpg.webp",
+      "url":"https://pro.m.jd.com/mall/active/3m47ZnCm2pBthi7fk4SicT2exAjx/index.html?has_native=0"
+    },
+    {
+      "id":"3",
+      "img":"https://m.360buyimg.com/mobilecms/s720x322_jfs/t7426/229/3603064317/81959/f09bcc2a/59c2027eN1b5a814f.jpg!q70.jpg",
+      "url":"https://pro.m.jd.com/mall/active/jqdQMdvuo5QxeVQuMcT9pAdzTyb/index.html"
+    }
+  ]
+}
